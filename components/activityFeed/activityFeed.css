@@ -1,0 +1,17 @@
+.cs142-activity-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: top; 
+    margin: 20px;    
+  }
+
+  .cs142-activity-image {   
+      max-width: 5%;
+      height: auto;      
+  }
+
+  .cs142-activity-row-item {
+    margin: 10px;
+    padding: 10px
+  }

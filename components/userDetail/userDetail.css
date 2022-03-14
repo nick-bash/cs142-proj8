@@ -1,0 +1,14 @@
+.cs142-delete-account-button {
+    color: red
+}
+
+.cs142-delete-account-confirmation { 
+    color: red
+}
+
+.cs142-delete-confirmation-div {
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+    margin: 10px;
+}

@@ -1,0 +1,31 @@
+Nicholas Bashour
+Project #8 - Submission form
+
+Story number and name: #4 Activity feed
+Story points: 4
+Brief description to see the story in action:
+  Click the Activity Feed button in the Top Bar to see what other users have been up to.
+  You can see activities related to users logging in and out, users registering, photo uploads, and
+  photo comments. If you upload a photo, refresh the Activity Feed to see the activity showing.
+
+Story number and name: #5 Deleting Comments, Photos, and Users
+Story points: 4
+Brief description to see the story in action:
+  Users have the ability to delete their comments, photos, or even their entire account from their 
+  user detail page. Deleting any of these types of data will also delete the associated activities.
+
+Story number and name: #6 Photo like votes
+Story points: 4
+Brief description to see the story in action:
+  Users can like or unlike any photo by clicking on the corresponding button next to a photo.
+
+Total Story Points: 12
+
+Marketing Video URL (ensure permissions are set to public viewing):
+
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum?
+Sure :)
+
+Any special instructions for Grading (should be easy to run app from new machine):
+No.
